@@ -7,8 +7,5 @@ $ soundcloud-downloader.py http://soundcloud.com/user/sets/setname
 Requirements
 ------------
 
-ID3-PY (for name tagging)
-http://id3-py.sourceforge.net/
-
 Requests (for downloading SoundCloud pages)
 pip install requests
